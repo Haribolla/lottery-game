@@ -1,0 +1,54 @@
+body{
+    justify-content: center;
+}
+.game1{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: cornflowerblue;
+    border: 5px solid rgb(63, 12, 111);
+    box-shadow:  10px 10px 10px 10px rgb(196, 144, 244);
+}
+h1{
+    text-align: center;
+    margin: 0px;
+    border: 5px solid rgb(63, 12, 111);
+}
+.game{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+    border: 5px solid rgb(63, 12, 111);
+    background-color: cornflowerblue;
+}
+#ROLL:hover{
+    background-color: rgb(139, 93, 179);
+}
+#ROLL{
+    padding: 5PX 5PX;
+    margin: 5PX;
+    background-color: blueviolet;
+}
+.box{
+    margin: 5px;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(98, 49, 145);
+    font-weight: bold;
+    font-size: 18px;
+}
+.game2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#work2,#work3{
+    width: 100%;
+    display: flex;
+
+
+}
