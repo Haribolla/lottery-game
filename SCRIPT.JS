@@ -11,7 +11,7 @@ let gifts = [
   "100rs",
   "500rs",
   "10rs",
-  "chocalate",
+  "chocolate",
   "center fresh",
   "goli soda",
   "0rs",
